@@ -250,3 +250,67 @@ For headlines and CTAs, provide 2-3 options:
 - **email-sequence**: For email copywriting
 - **popup-cro**: For popup and modal copy
 - **ab-test-setup**: To test copy variations
+
+---
+
+## SBA Addendum (Youth Basketball Academy)
+
+Upstream copywriting framing assumes SaaS/ecomm tone (B2B benefit-driven, ROI-led). SBA copy is parent-facing for a Singapore youth basketball academy. Apply these voice rules on top of anything upstream says.
+
+### Voice rules (canonical, from SBA-DATA.md §11)
+
+- **Tone:** confident, energetic, sporty. Not corporate. Not childish. Premium-athletic.
+- **Audience-direction:** parent-facing, not kid-facing. Even when describing a kid's program, write *to the parent about the kid*.
+- **Second person:** "your child", "your son", "your daughter", "you'll see".
+- **No SaaS language:** never say "users", "customers", "platform", "subscription", "onboarding".
+
+### Headline patterns
+
+- **Italic-emphasis on ONE word per headline** (replicates the `<em class="font-['LTEnergy-italic']">` pattern from `scholarbasketball.com`):
+  - "Build their *game*, their way."
+  - "Train *like* a national-team player."
+  - "The aircon court *built for parents*."
+- **Short punchy verb CTAs:** "Book a trial", "Train this term", "Play indoor", "Sign up today".
+- **Avoid long compound sentences in headlines.** Trim adverbs.
+
+### Words to use
+
+- "Trial" (not "demo", not "intro session")
+- "DSA" / "DSA-ready" / "DSA Elite"
+- "Fundamentals" (ball-handling, footwork, shooting, passing)
+- "Structured" (programmes, drills, progression)
+- "Coaches" (or "trainers" in camp context only)
+- "Parents" / "your child" / "your son" / "your daughter"
+- "Indoor" / "aircon" / "mall-based"
+- "1:10 ratio" (specifically for camps)
+- "SGPBBL" (only when the audience is competitive-track parents)
+
+### Words to avoid
+
+- "Users", "customers", "clients" (parents are *parents*, kids are *players*)
+- "Platform", "product", "service tier"
+- "Subscription", "MRR", "SaaS"
+- "Onboarding" (use "first session" / "trial")
+- "Members" (we say "students" or "players")
+- "B2B", "ICP", "decision-maker"
+
+### Proof-point insertion rule
+
+Drop ONE proof point per paragraph, not every sentence. Rotate across:
+- Tenure: "Since 2014" / "12 years training Singapore kids"
+- Scale: "1,000+ athletes trained" / "15+ coaches" / "6 islandwide locations"
+- Founder: "Founded by Wong Wei Long" / "Led by Singapore's most-recognised basketball player"
+- Facility: "Singapore's first aircon mall court" / "Parkway Parade Level 7"
+- Outcomes: "DSA placements" / "national youth trials" / "SGPBBL competitive league"
+- Social: "100% recommended on Facebook"
+
+### Channel-specific notes
+
+- **Meta Ads (FB/IG):** parent-targeted, primary headline does heavy lifting, image is Wong Wei Long / coaching action / aircon court interior. Hook in first 3 words.
+- **TikTok:** game footage + mic'd-up coach voice; on-screen copy is captions, not formal headline.
+- **Xiaohongshu:** Mandarin-speaking parent segment; if copy is translated, keep the italic-emphasis pattern (Mandarin equivalent: bold one keyword instead of italic).
+- **Blog (`/articles`):** SEO-aware H1, parent-question-as-headline format ("Is My Kid Ready for DSA Basketball?", "Best Indoor Basketball Court in Singapore for Kids").
+
+### Always consult first
+
+`.agents/product-marketing-context.md` — sections 10 (Customer language verbatim), 11 (Brand voice), and 12 (Proof points) are the canonical reference. Pull verbatim quotes from §10 before composing testimonials or social-proof copy.
