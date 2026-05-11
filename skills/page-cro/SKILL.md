@@ -180,3 +180,51 @@ When recommending experiments, consider tests for:
 - **popup-cro**: If considering popups as part of the strategy
 - **copywriting**: If the page needs a complete copy rewrite
 - **ab-test-setup**: To properly test recommended changes
+
+---
+
+## SBA Addendum (Youth Basketball Academy)
+
+This skill, as written upstream, optimizes SaaS/ecomm "signup" and "checkout" funnels. For Scholar Basketball Academy, translate those concepts to:
+
+### SBA's actual conversion funnels
+
+1. **Trial booking funnel** (highest-value)
+   - Entry: homepage, program page, `/articles` blog CTA, Meta ad → trial CTA
+   - Conversion: book a free 1.5-hour trial via Mindbody embedded widget
+   - Drop-off points to audit: program-page → trial-CTA scroll depth, Mindbody widget load time, mobile form friction
+2. **Camp booking funnel** (seasonal)
+   - Entry: homepage seasonal banner / IG ad / mailing list → camp page
+   - Conversion: book a camp via Amelia → Stripe SGD checkout
+   - Drop-off points: camp-page → date picker → Amelia plugin checkout → Stripe payment
+3. **Article-to-trial funnel** (SEO-driven)
+   - Entry: organic search → `/articles/<topic>`
+   - Conversion: in-article CTA → trial booking
+   - Drop-off points: article scroll depth, in-article CTA placement, exit intent
+
+### Specific high-priority SBA pages to audit
+
+- `https://scholarbasketball.com/` — homepage
+- `https://scholarbasketball.com/sba-kids-bukit-timah/` — BTP dedicated landing
+- `https://scholarbasketball.com/articles/` — blog index
+- Individual articles (top-traffic from `/articles/`)
+- Camp landing pages (during active MOE holiday windows)
+- Program pages: SBA Kids, SBA Development, SBA Competitive, DSA Elite, Private
+
+### SBA-specific CRO priorities
+
+- **Trial CTA visibility** — every page should have a trial CTA above the fold and reinforced at scroll milestones
+- **Parent-trust signals** — surface Wong Wei Long credibility, 1:10 ratio, 100% recommend rate on FB, the 1,000+ trained number, and aircon mall indoor court in the hero / proof areas
+- **MOE-calendar urgency** — during camp registration windows, surface dates + remaining slots + "book before [date]" copy
+- **Location proximity** — for visitors with location signals (Meta ad targeting, page they arrived from), surface the nearest of the 6 venues
+- **Friction killers** — Mindbody widget must work on mobile; Amelia + Stripe must accept SGD without redirect surprises; Jotform indemnity should be camp-end, not blocking signup
+
+### Skip (not applicable to SBA)
+
+- Subscription / SaaS pricing-tier CRO (SBA uses term packages, not subscriptions in the SaaS sense)
+- Free-trial-to-paid SaaS conversion analysis (SBA's "trial" is a session, not a product trial)
+- Anything paywall-related
+
+### Always consult first
+
+`.agents/product-marketing-context.md` (or `SBA-DATA.md` in the fork) — sections 13 (Channels & funnels) and 15 (Renewal & retention drivers) ground every CRO decision in SBA's actual buyer behavior.
