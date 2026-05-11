@@ -360,3 +360,69 @@ node tools/clis/google-ads.js reports get --type ad_performance --date-range las
 - **ab-test-setup**: For structuring creative tests with statistical rigor
 - **marketing-psychology**: For psychological principles behind high-performing creative
 - **copy-editing**: For polishing ad copy before launch
+
+---
+
+## SBA Addendum (Youth Basketball Academy)
+
+Upstream ad-creative framing assumes US/global ecomm + SaaS audiences. SBA runs paid acquisition in Singapore for a youth basketball academy. Translate the upstream creative principles with these adjustments.
+
+### Account & channels
+
+- **Meta Ads (FB + IG):** primary channel. Ad account ID `act_3857773791149153` (Kevin's MCP-enabled account). SGD-denominated.
+- **TikTok Ads:** secondary channel; high-engagement for game-footage + mic'd-up coach content.
+- **Xiaohongshu Ads:** opportunity for the Mandarin-speaking parent segment.
+- **Google Search Ads:** light usage; high-intent DSA / camp keywords are an opportunity, not yet scaled.
+- **NOT in scope:** LinkedIn Ads (B2B-only), Google Display Network without negative-list curation, Reddit Ads.
+
+### Singapore-specific creative considerations
+
+- **Currency:** SGD only. Use "S$" not "$".
+- **Language:** primarily English; Mandarin variants tested for Xiaohongshu and select Meta audiences.
+- **Seasonality (MOE calendar — CRITICAL):**
+  - March holiday camps: ad spike Feb–early Mar
+  - June holiday camps: ad spike Apr–May
+  - September holiday camps: ad spike Jul–Aug
+  - Nov/Dec holiday camps: ad spike Sep–Oct
+  - DSA Elite (March): ad spike Dec–Feb (DSA application cycle)
+  - Regular term enrolment: steady-state with end-of-term bursts
+- **Audience targeting** — Singapore-only, parents 30–50, geo-radius around each of the 6 venues. Lookalike audiences from Mindbody customer list (with proper consent).
+
+### Creative anchors (rotate across ad sets)
+
+1. **Founder credibility** — Wong Wei Long footage, "Singapore's most-recognised basketball player teaches your kid"
+2. **Aircon mall court** — interior footage of Parkway Parade Level 7, "Indoor. Aircon. Inside Parkway Parade."
+3. **Parent testimonial** — talking-head or text-overlay quotes from real SBA parents (with consent)
+4. **Kid action** — clean game / drill footage; kid POV when possible
+5. **DSA outcomes** — parent-aspirational copy + program detail
+6. **Scale / proof** — "1,000+ kids trained since 2014", "100% recommended on Facebook"
+
+### Ad format playbook
+
+- **Meta Feed / Stories:** vertical 9:16, hook in first 1.5 seconds, on-screen captions (audio-off default), single proof point per creative
+- **Reels / TikTok:** raw-feeling game footage > polished agency creative; mic'd-up coach is high-performing
+- **Carousel ads (Meta):** card 1 = hook, cards 2–4 = proof points (founder, ratio, location, outcomes), final card = trial CTA
+- **Lead ads (Meta):** for free trial signup; pre-fills name + parent phone; goes to Mindbody trial-booking flow downstream
+
+### Landing-page pairing
+
+Every ad must land on a page that matches the creative's promise:
+
+| Ad creative | Landing |
+|---|---|
+| DSA Elite-focused | DSA Elite program page or dedicated landing |
+| Camp-focused | Specific camp page (March / June / Sep / Nov-Dec) — Amelia booking |
+| Trial-focused | Trial booking page (Mindbody widget) |
+| BTP-focused | `/sba-kids-bukit-timah` |
+| General brand | Homepage |
+
+### Skip (not applicable to SBA)
+
+- B2B LinkedIn creative
+- Pricing-tier comparison creatives (SBA's not a SaaS)
+- "Free tier" / "freemium" creative angles (trial is the free hook, not a tier)
+- Annual contract renewal creatives (term-based, not annual)
+
+### Always consult first
+
+`.agents/product-marketing-context.md` — sections 3 (Parent personas) for who's being targeted, 12 (Proof points) for which credentials to lead with, 13 (Channels & funnels) for which landing page matches.
