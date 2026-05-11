@@ -1,3 +1,15 @@
+# SBA Marketing Skills
+
+Fork of [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) adapted for **Scholar Basketball Academy** — a Singapore youth basketball academy. Upstream is SaaS/ecomm-biased; this fork translates frameworks to a service business (parent buyer / kid user, term-based fees, MOE-calendar seasonality, Singapore-specific channels).
+
+**Start here:** [`SBA-SKILL-MAP.md`](./SBA-SKILL-MAP.md) — which skills to use, which to translate, which to skip.
+
+**Pre-filled context:** [`skills/product-marketing-context/SBA-DATA.md`](./skills/product-marketing-context/SBA-DATA.md) — copy this to your project's `.agents/product-marketing-context.md` before using any other skill.
+
+**Install:** see [`INSTALL-SBA.md`](./INSTALL-SBA.md).
+
+---
+
 # Marketing Skills for AI Agents
 
 A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth engineering. Works with Claude Code, OpenAI Codex, Cursor, Windsurf, and any agent that supports the [Agent Skills spec](https://agentskills.io).
