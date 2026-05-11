@@ -89,7 +89,7 @@ Consider scripting step 3 if multiple SBA projects consume the fork.
 The fork has `upstream` set to `coreyhaines31/marketingskills`. Periodically pull upstream changes:
 
 ```powershell
-cd Scholarbasketball Workflow/sba-marketingskills
+cd "Scholarbasketball Workflow/sba-marketingskills"
 git fetch upstream
 git checkout main
 git merge upstream/main

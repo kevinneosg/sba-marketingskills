@@ -209,6 +209,10 @@ Most Singapore basketball options are either coach-personality-led — one star 
 | 1:10 ratio | Camper-to-trainer ratio during holiday camps |
 | Trial | Free 1.5-hour intro session, booked via Mindbody or scholarbasketball.com |
 | Parkway | Parkway Parade — the main aircon court venue inside the mall |
+| Mindbody | CRM + class booking + payments platform; system-of-record for student / parent / attendance / term enrolment data |
+| Amelia | WordPress plugin used on scholarbasketball.com for holiday camp booking (Stripe SGD checkout) |
+| Jotform | Form provider used for waiver / indemnity collection at camp signup |
+| Elementor | WordPress page builder used across scholarbasketball.com pages |
 
 ## 11. Brand voice
 
