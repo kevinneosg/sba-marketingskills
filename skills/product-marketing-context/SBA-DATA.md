@@ -135,3 +135,143 @@ Most Singapore basketball options are either coach-personality-led — one star 
 - Kids forced into the program against their will (low retention, bad fit)
 - Families with no schedule slack for weekly commitment (1-off camp only is fine)
 - Adults wanting recreational basketball (SBA is youth-focused; refer elsewhere)
+
+## 9. Switching dynamics (JTBD four forces)
+
+**Push** (frustrations driving them away from current path):
+- School CCA quality is hit-or-miss; coach often a teacher with no playing background
+- Public-court / "uncle coach" sessions are inconsistent — coach turns up late, no progression
+- Previous academy: coaches rotated every term, kid lost continuity
+- DSA timeline pressure (P5/P6) forces them to seek structured prep
+
+**Pull** (what attracts them to SBA):
+- Wong Wei Long's brand and national-level credibility
+- Aircon mall location (no haze/heat worry)
+- Visible progression pathway (Kids → Development → Competitive → DSA)
+- Free trial session removes signup friction
+- Social proof: 100% recommend rate on FB (29 reviews), ~10K IG followers
+
+**Habit** (what keeps them stuck with current option):
+- Inertia of existing academy / school CCA enrolment
+- Loyalty to current coach (especially if kid likes them)
+- Weekly schedule already built around current venue / time slot
+- Sunk cost of equipment already bought, uniforms, registration fees
+
+**Anxiety** (worries about switching to SBA):
+- "What if SBA isn't actually better?"
+- "Will my kid fit in mid-program when other kids have been there longer?"
+- "Will the commute to Parkway Parade kill our routine?"
+- "What if I commit a full term and we hate it?" — addressed by free trial
+
+## 10. Customer language
+
+**How parents describe the problem (verbatim — pull more on next blog/IG comment crawl):**
+- "Is he ready for DSA?"
+- "My kid's ball-handling is weak"
+- "He plays at school but the coach doesn't really coach"
+- "We need somewhere indoor — too hot outside"
+- "Trial first to see if she likes it"
+
+**How parents describe SBA (verbatim):**
+- "Coach Wei Long" / "Wong Wei Long's academy"
+- "The Parkway one" / "the aircon court at Parkway"
+- "SBA Kids" / "SBA camps"
+- "DSA Elite" (the program brand for DSA prep)
+
+**Words to use in copy:**
+- "Trial" (not "demo", not "intro session")
+- "DSA" / "DSA-ready" / "DSA Elite"
+- "Fundamentals" (ball-handling, footwork, shooting, passing)
+- "Structured" (programmes, drills, progression)
+- "Coaches" (not "instructors", not "trainers" — "trainers" is OK for camps)
+- "Parents" / "your child" / "your son" / "your daughter"
+- "Indoor" / "aircon" / "mall-based"
+- "1:10 ratio" (camps)
+- "SGPBBL" (only for competitive-track audience — too jargon for kids/development tier)
+
+**Words to avoid:**
+- "Users", "customers", "clients" (parents are *parents*, kids are *players*)
+- "Platform", "product", "service tier" (SaaS language)
+- "Subscription", "MRR", "SaaS"
+- "Onboarding" (use "first session" / "trial")
+- "Members" (we say "students" or "players")
+- "B2B" / "ICP" / "decision-maker"
+
+**Glossary:**
+
+| Term | Meaning |
+|---|---|
+| DSA | Direct School Admission — Singapore's secondary school placement pathway for sports/talent |
+| MOE | Ministry of Education (Singapore); SBA holiday camps align to MOE school holiday dates |
+| SGPBBL | Singapore Pesta Bola Basketball League — youth competitive league SBA teams play in (e.g., U10/U12/U14 divisions) |
+| BTP | Bukit Timah Plaza (also used to refer to the dedicated SBA Bukit Timah landing page) |
+| CCA | Co-Curricular Activity — Singapore school after-hours programmes including school basketball teams |
+| 1:10 ratio | Camper-to-trainer ratio during holiday camps |
+| Trial | Free 1.5-hour intro session, booked via Mindbody or scholarbasketball.com |
+| Parkway | Parkway Parade — the main aircon court venue inside the mall |
+
+## 11. Brand voice
+
+**Tone:** confident, energetic, sporty. Not corporate. Not childish. Premium-athletic.
+
+**Audience-direction:** Parent-facing, not kid-facing. Even copy about kid programs is written *to the parent about the kid*, not to the kid.
+
+**Brand values:** Creativity · Dedication · Growth · Determination.
+
+> **Note (divergence flag for Kevin):** the website lists "Creativity · Dedication · Growth · Determination" (used here), while the internal project brief lists "Creativity · Fire · Dedication · Process · Will". This file uses the website version for any external-facing copy. Confirm which list should govern internal-facing communications.
+
+**Headline patterns:**
+- Italic-emphasis on ONE word per headline (replicating `<em class="font-['LTEnergy-italic']">` pattern from site)
+  - Example: "Build their *game*, their way."
+  - Example: "Train *like* a national-team player."
+- Short, punchy verbs as CTAs: "Book", "Train", "Play", "Sign up"
+- Avoid long compound sentences in headlines
+
+**Body voice:**
+- Direct, conversational, second-person ("your child", "you'll see")
+- Specific over generic — say "1:10 ratio" not "small group sizes"
+- Lead with the parent's concern, then the SBA answer
+- Light credentialing — drop one proof point per paragraph, not every sentence
+
+**Personality (3–5 adjectives):**
+- Confident
+- Structured
+- Local (Singapore-rooted)
+- Family-aware
+- Achievement-oriented
+
+## 12. Proof points
+
+**Tenure & scale:**
+- Founded 2014 (12 years operating as of 2026)
+- 1,000+ young athletes trained since founding
+- 15+ coaches on staff
+- 6 training locations islandwide
+
+**Social proof:**
+- Facebook: 100% recommend rate across 29 reviews
+- Instagram: ~10K followers, ~2,381 posts
+- TikTok: active with game footage + mic'd-up coaching content
+- SGPBBL: SBA teams compete annually (U10, U12, U14, etc.)
+
+**Programme outcomes:**
+- DSA Elite track has placed players into top secondary schools (specific count: *verify with Kevin*)
+- Multiple players progressed to national youth trials (specific count: *verify with Kevin*)
+- 16+ youth league (SGPBBL) games annually for Competitive program
+
+**Founder credibility:**
+- Wong Wei Long — 19 years in basketball, former professional player, most high-profile basketball player in Singapore
+
+**Coach credibility (top 3):**
+- Sim Lek Wei: 20 years, former team captain, trained by China + Philippines coaches, SAF 2nd Sergeant & Instructor
+- Leslie Yeo: 12 years, combines academic study with practical coaching
+- Yunita Sugianto: 9 years, coached across Indonesia and Singapore
+
+**Facility differentiator:**
+- Singapore's first basketball court inside a mall — fully air-conditioned, Parkway Parade Level 7
+
+**Testimonial themes to mine (no specific quotes captured yet — pull from FB reviews + Mindbody surveys on next refresh):**
+- "Kid loves it" (engagement / fun)
+- "Coaches are great" (quality)
+- "Convenient location" (parking, mall, aircon)
+- "Saw real progress" (outcome)
