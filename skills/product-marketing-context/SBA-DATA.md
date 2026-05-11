@@ -275,3 +275,139 @@ Most Singapore basketball options are either coach-personality-led — one star 
 - "Coaches are great" (quality)
 - "Convenient location" (parking, mall, aircon)
 - "Saw real progress" (outcome)
+
+## 13. Channels & funnels
+
+**Owned channels:**
+- Website `scholarbasketball.com` (WordPress + Elementor)
+  - Homepage → program pages → trial CTA
+  - `/articles` blog (SEO content for parents: DSA, drills, indoor vs outdoor, etc.)
+  - `/sba-kids-bukit-timah` dedicated landing for the BTP venue
+  - Camp pages → Amelia booking → Stripe SGD checkout
+- Email (parent mailing list — via Mindbody marketing tools)
+- WhatsApp parent groups (per-program-per-batch; managed by coaches/admin, *not* connected to marketing-assistant ingest in v1)
+
+**Earned / owned-social:**
+- Instagram @scholarbasketball (~10K followers, ~2,381 posts) — training highlights, game footage, camp promos, coach spotlights
+- Facebook /scholarbasketball — 100% recommend, programme announcements, photo albums
+- TikTok @scholarbasketball — game highlights, mic'd-up coaching, DSA camp footage, SGPBBL recaps
+- YouTube /ScholarBasketball — game footage (lower activity, opportunity to revive)
+- Xiaohongshu — active per project brief (no public-facing profile found via web; managed by team directly)
+- LinkedIn /company/scholarbasketball — partnership/professional inquiries
+
+**Paid channels:**
+- Meta Ads (Facebook + Instagram) — Ad account `act_3857773791149153`. SGD-denominated, primarily targeting Singapore parents 30–50 in catchment zones around each venue.
+- TikTok Ads — opportunity, not yet primary
+- Xiaohongshu Ads — opportunity for Mandarin-speaking parent segment
+- Google Search Ads — minimal currently; high-intent DSA-related keywords are an opportunity
+- Google Display / YouTube Ads — not currently in use
+
+**Booking / conversion systems:**
+- Mindbody — class booking, CRM, trial booking, term enrolment, attendance, payment
+- Amelia (WordPress plugin) — holiday camp booking with Stripe SGD
+- Jotform — waiver / indemnity forms
+
+**Primary funnel (regular programs):**
+1. Awareness: IG / TikTok / FB / Google search / word-of-mouth / SGPBBL games
+2. Consideration: scholarbasketball.com → program page → coach bios → location info
+3. Conversion: free trial booking via Mindbody (Trial is FREE — note: SGD 150 figure used in some marketing is positioning, actual trial costs nothing)
+4. First session: at Parkway / satellite venue
+5. Decision: enrol in term (Mindbody contract / package)
+6. Retention: term-to-term renewal, kid attendance, parent satisfaction
+7. Expansion: upgrade to Competitive, sign up for camps, refer friends
+
+**Primary funnel (camps):**
+1. Awareness: IG / FB / mailing list / parent WhatsApp groups
+2. Consideration: scholarbasketball.com camp page
+3. Conversion: Amelia booking → Stripe SGD payment
+4. Pre-camp: Jotform indemnity, WhatsApp logistics group
+5. Camp delivery
+6. Post-camp: review, possibly conversion to regular program
+
+## 14. Pricing & commercial model
+
+**Trial:** Free 1.5-hour complimentary session. (Some marketing materials reference "SGD 150 value" — that's positioning, the trial itself costs nothing.)
+
+**Regular programs (term-based, billed via Mindbody):**
+- SBA Kids (3–7)
+- SBA Development (5–18)
+- SBA Competitive (~12–16)
+- SBA Coaches workshops (3-hour, separate format)
+
+(*Specific term fees by program / venue / age band: verify with Kevin — pull from Mindbody pricing page.*)
+
+**Holiday camps:**
+- Multi-day intensives during MOE school holidays (March, June, Sep, Nov/Dec)
+- Per-week or per-camp pricing via Amelia + Stripe SGD
+- Open to non-members + members
+
+**DSA Elite Program:**
+- 4-day intensive, premium tier
+- Runs during MOE holiday windows (March confirmed; June TBC for 2026)
+
+**Private Training:**
+- 1-on-1 or small group with national-level coaches
+- Custom pricing per session
+
+**Implicit pricing strategy:**
+- Free trial as zero-friction acquisition tool (the key conversion lever)
+- Term packages create commitment + cashflow predictability
+- DSA Elite as premium / aspirational tier
+- Camps as seasonal revenue smoothing + first-touch for non-members
+
+## 15. Renewal & retention drivers
+
+**Why families re-sign each term:**
+- Kid wants to keep going (the #1 driver — kid engagement = parent renewal)
+- Visible skill progress (parent sees improvement at home / in games)
+- Schedule continuity (kid's slot is already in the family calendar)
+- Friendships built within the program
+- Coach continuity (same coach each term — strong predictor of renewal)
+- Proximity to DSA / SGPBBL season (parents won't pause mid-prep)
+
+**Why families churn:**
+- Kid loses interest (boredom, too much drilling, no friends, schedule fatigue)
+- Schedule clash (tuition load increases, especially P5/P6 academic pressure)
+- Family moves house / changes school
+- Cheaper / closer alternative appears
+- Negative experience with a specific coach
+- Kid plateaus and parent thinks they need a different methodology
+- DSA cycle ends (kid placed — parent disengages)
+
+**Detection signals (from Mindbody):**
+- Attendance drop-off > 2 consecutive sessions
+- No re-enrolment for the next term within X days of term end
+- Drop from regular program but signed up for camp only (downgrade signal)
+
+**Retention plays (current + opportunities):**
+- Term-end parent communication (current — informal via coach WhatsApp)
+- Progress reports per term (opportunity — not yet systematised)
+- Parent-of-the-month / kid-of-the-month features (community)
+- Referral incentives (opportunity)
+- Cross-sell from regular program to camps (current — informal)
+- Cross-sell from kids to development to competitive (natural progression)
+
+## 16. Goals (rolling 90-day)
+
+From `company-context.md` (refresh quarterly):
+
+1. **Growth & Revenue** — increase memberships, sponsorships, programme enrolment
+2. **Product & Platform** — improve website, app, tech platform (this fork supports this)
+3. **Operations & Scale** — streamline workflows, hire, expand locations
+4. **Brand & Marketing** — build brand awareness, content, social media presence
+
+**Key conversion action across all skills in this collection:** book a free trial.
+
+**Secondary conversion action:** book a holiday camp (especially DSA Elite during MOE holiday windows).
+
+**Current metrics worth referencing (verify before quoting in external copy):**
+- $200K+ ARR
+- 1,000+ athletes trained since 2014
+- 100% recommend rate on FB (29 reviews)
+- ~10K Instagram followers
+- 6 locations
+- 15+ coaches
+
+---
+
+*End of SBA-DATA.md. This file is the canonical context. Copy to consuming projects' `.agents/product-marketing-context.md` before running any marketing skill.*
