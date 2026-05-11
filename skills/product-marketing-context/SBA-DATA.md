@@ -222,8 +222,6 @@ Most Singapore basketball options are either coach-personality-led — one star 
 
 **Brand values:** Creativity · Dedication · Growth · Determination.
 
-> **Note (divergence flag for Kevin):** the website lists "Creativity · Dedication · Growth · Determination" (used here), while the internal project brief lists "Creativity · Fire · Dedication · Process · Will". This file uses the website version for any external-facing copy. Confirm which list should govern internal-facing communications.
-
 **Headline patterns:**
 - Italic-emphasis on ONE word per headline (replicating `<em class="font-['LTEnergy-italic']">` pattern from site)
   - Example: "Build their *game*, their way."
