@@ -495,3 +495,75 @@ Same format as above
 - **schema-markup**: For implementing structured data
 - **page-cro**: For optimizing pages for conversion (not just ranking)
 - **analytics-tracking**: For measuring SEO performance
+
+---
+
+## SBA Addendum (Youth Basketball Academy)
+
+Upstream SEO audit assumes high-volume English-speaking ecomm / SaaS keywords. SBA targets a small Singapore market with intent-heavy parent queries. Translate the upstream audit framework with these adjustments.
+
+### SBA target keywords (already in use on `/articles`)
+
+| Keyword | Intent | SBA priority |
+|---|---|---|
+| basketball academy near me | discovery | high (local-pack play) |
+| basketball training singapore | discovery | high |
+| kids basketball singapore | discovery | high |
+| youth basketball singapore | discovery | medium |
+| DSA basketball singapore | high-intent | very high (premium tier) |
+| DSA basketball preparation | high-intent | very high |
+| indoor basketball court singapore | discovery + venue | high (mall court differentiator) |
+| aircon basketball court singapore | discovery + venue | high (differentiator) |
+| basketball camps for kids singapore | seasonal | very high (camp windows) |
+| basketball coach singapore | discovery | medium |
+| holiday camp singapore basketball | seasonal | very high |
+| basketball drills for kids | top-of-funnel | medium (blog content) |
+
+### Singapore SEO realities
+
+- **Volumes are small** — most SBA target queries are sub-1k/month. Don't apply US-volume thresholds.
+- **Local pack dominates** — Google Maps + GBP listings often capture 50%+ of clicks for "near me" / "Singapore" queries. SEO without local SEO is half the picture.
+- **Brand searches matter** — "scholar basketball" / "wong wei long" / "scholar basketball academy" are high-converting and must rank #1 on first page.
+- **Long-tail is finite** — Singapore market is small; programmatic-SEO long-tail strategies that work for US ecomm don't scale here. Focus on quality over quantity.
+
+### Local SEO checklist (the most important SEO work for SBA)
+
+For Parkway Parade (main venue) and each satellite location (SCGS, ACS Barker, NLCS, CIS, +1 TBC):
+
+- [ ] Google Business Profile (GBP) claimed and verified
+- [ ] Address, hours, phone (+65 9238 2836), website filled
+- [ ] Category set: Basketball court / Sports school
+- [ ] Photos: aircon court interior, coaching action, kid players (with parental consent), exterior signage
+- [ ] Reviews: aim for steady inflow (every camp / term-end), respond to every review
+- [ ] Q&A: pre-seed common parent questions ("What ages?", "How much?", "Is there a free trial?")
+- [ ] Posts: regular updates (camp openings, league recaps, coach features)
+
+### Site-level audit priorities (translated for `scholarbasketball.com`)
+
+1. **Brand-query ranking** — confirm `scholar basketball`, `scholar basketball academy`, `wong wei long basketball` rank #1 on Google.sg
+2. **Articles index** — `/articles` should be crawlable, indexable, with proper schema (Article / BlogPosting)
+3. **Program pages** — Kids / Development / Competitive / DSA Elite / Camps each deserve a unique indexable URL with FAQ schema
+4. **Location pages** — one indexable page per venue (Parkway, SCGS, ACS, NLCS, CIS, +1) with LocalBusiness schema
+5. **WordPress technical hygiene** — Yoast or Rank Math config, sitemap submission, no orphan pages, no thin content
+6. **MOE holiday camp pages** — refresh dates seasonally; old camp pages should redirect to current or be `noindex`
+7. **Page speed** — Elementor sites tend to be heavy; Core Web Vitals on key landing pages
+
+### Schema markup priorities (cross-reference `schema-markup` skill)
+
+- LocalBusiness (per venue)
+- Organization (root domain)
+- Course (per program: Kids, Development, Competitive, DSA Elite)
+- Event (per camp / DSA Elite intake)
+- Article / BlogPosting (per `/articles` post)
+- FAQPage (program pages + camp pages)
+- Person (coach bios — Sports Person variant where applicable)
+
+### Skip (less relevant for SBA)
+
+- Aggressive long-tail programmatic SEO (Singapore volumes too small)
+- Comparison / "vs" pages (academy market is small; mostly distasteful in this context)
+- Affiliate / link-building from US/Western marketing blogs (cultural fit is poor)
+
+### Always consult first
+
+`.agents/product-marketing-context.md` — section 10 (Customer language) for the actual words parents use, section 13 (Channels & funnels) for which pages convert.
