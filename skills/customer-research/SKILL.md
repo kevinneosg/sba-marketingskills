@@ -268,3 +268,78 @@ Don't ask all five at once — lead with #1 and #2, then follow up as needed.
 | Planning paid ads informed by research | `paid-ads` |
 | Writing cold email using research on pain/trigger | `cold-email` |
 | Planning content based on discovered topics | `content-strategy` |
+
+---
+
+## SBA Addendum (Youth Basketball Academy)
+
+Upstream customer-research framing assumes B2B SaaS interviews ("VP of Sales", "decision-maker") or ecomm survey methodology. SBA's research is parent-interview heavy with a dual-persona dynamic (parent buyer + kid user).
+
+### Research sources to mine (already inside SBA)
+
+1. **Mindbody client database** — full history of current and lapsed students. Names, programs, attendance patterns, term enrolment history. (Use with PDPA respect — internal analysis only, no external publication of identifiable data.)
+2. **Facebook reviews** — 29 reviews at 100% recommend rate. Mine for verbatim language about what parents value.
+3. **Instagram comments** — under camp announcements, coach features, program posts. Parent objections + praise both surface.
+4. **`/articles` blog comments** (if open) — direct parent questions about DSA, programs, age suitability.
+5. **TikTok comments** — usually kids and adjacent parents; useful for kid-experience language.
+6. **WhatsApp parent groups** — per-program / per-batch groups. *Only use with explicit consent and group admin approval; PDPA scope is members of the group.*
+7. **Mindbody trial feedback** (if collected) — what made the parent book / not enrol after trial.
+8. **Coach insights** — coaches see kid engagement in real-time and hear parent reactions at pickup. Schedule periodic coach interviews.
+
+### Dual-persona research framework
+
+SBA decisions involve BOTH:
+- **Parent (buyer):** signs up, pays, drives, watches from sidelines
+- **Kid (user):** experiences the program, ultimately determines renewal
+
+Research both:
+- Parent interviews → buying journey, objections, switching forces (Push/Pull/Habit/Anxiety)
+- Kid interviews (with parental consent) or kid observation → engagement, fun, friends, coach connection
+- Triangulate: parent's stated reason for enrolment can differ from kid's reason for sticking
+
+### Parent interview script (Singapore-flavored)
+
+Adapt the upstream JTBD interview script with these substitutions:
+
+| Upstream prompt | SBA prompt |
+|---|---|
+| "Walk me through how you first heard about us" | "Walk me through how you first heard about SBA / Scholar Basketball" |
+| "What were you using before?" | "What was your kid doing for basketball before this? School CCA? Another academy? Just play at the park?" |
+| "What pushed you to switch?" | "What made you actually book the trial?" |
+| "What's the ROI?" | "What's the change you've seen in your kid since starting?" |
+| "Who else is involved in the decision?" | "Who else weighed in — your partner, your kid, your kid's school?" |
+
+Always include:
+- "What was your kid's reaction after the first session?" (engagement signal)
+- "What would make you stop / pause?" (churn signal)
+- "Who would you recommend SBA to? Who would you NOT recommend it to?" (anti-persona)
+- "If SBA disappeared tomorrow, what would you do?" (substitute mapping)
+
+### Kid research
+
+- **Direct interviews** with kids 8+ (with parent present), 5–7 (with parent moderating)
+- **Observation** during sessions — engagement signals: face, body language, peer interaction
+- **Drawings** for younger kids — "draw your favorite thing at basketball"
+- **Coach proxy** — coaches see kids in flow state; ask coaches what each kid loves / struggles with
+
+### Persona inputs
+
+After each round of research, update SBA-DATA.md §3 (Parent personas) and §4 (Player/kid persona) — these are not static.
+
+### Quotes capture
+
+Build a verbatim quote bank for use across copywriting, ad-creative, and landing-page testimonials. Tag by:
+- Persona type (DSA-prep / First-trial / Competitive / BTP-convenience / Marine-Parade-loyalist)
+- Theme (engagement, outcome, location, founder credibility, ratio, coach, friendship)
+- Channel of origin (FB review / IG comment / interview / Mindbody feedback)
+- Consent status (named / anonymous / withheld)
+
+### Skip (not relevant)
+
+- B2B account-based research methodology
+- Win/loss interviews using B2B procurement language
+- Net Promoter Score in isolation (use only as one signal among many; small N makes the metric noisy)
+
+### Always consult first
+
+`.agents/product-marketing-context.md` — sections 3 (Parent personas), 4 (Kid persona), 9 (Switching dynamics), and 10 (Customer language). Research findings should feed back into these sections, not duplicate them.
